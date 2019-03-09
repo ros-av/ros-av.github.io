@@ -1,5 +1,7 @@
 # ROS AV Documentation
 
+An open source antivirus solution.
+
 ## Under development!
 
 ROS AV is currently in early development.
